@@ -1,0 +1,119 @@
+Mere Christianity
+The Remaining: Aftermath
+The Remaining
+Adventure in Prolog
+Infernal [Repairman Jack]
+Crisscross [Repairman Jack]
+Gateways [Repairman Jack]
+Dark City [Repairman Jack]
+Reprisal [Adversary]
+Reborn [Adversary]
+Aftershock & 16 Other Oddities [Secret History]
+Cold City [Repairman Jack]
+I am Legend
+The Black Wind [Secret History]
+Steel Heart
+The Haunted Air [Repairman Jack]
+Hosts [Repairman Jack]
+All The Rage [Repairman Jack]
+Conspiracies [Repairman Jack]
+The Touch [Adversary]
+Legacies [Repairman Jack]
+The Little Schemer
+The Tomb [Adversary / Repairman Jack]
+This Town
+Dragons of Winter Night [Chronicles]
+The Keep [Adversary]
+The Evolution of Lisp
+Ex Heroes
+Ex Patriots
+Ex Communication
+Dragons of Autumn Twighlight [Chronicles]
+Code
+Functional Programming for the OOP
+Shattered Hourglass [Day by Day Armageddon]
+Necessary Evil [Milkweed]
+Brave New World
+Ender's Game [Ender]
+Ender's Shadow [Ender]
+Shadow of the Giant [Ender]
+Shadow of the Hegemon [Ender]
+Shadow Puppets [Ender]
+A Memory of Light [Wheel of Time]
+Towers of Midnight [Wheel of Time]
+Starship Troopers
+The Joy of Clojure
+Programmers at work
+Mindfulness in Plain English
+A Dance With Dragons [Song Ice and Fire]
+Quiet [Introverts]
+A Treatise for the Seekers of Truth
+Scipio Africanus: Greater Than Napoleon
+Ghosts of Cannae
+Zombie Fallout 5 [Zombie Fallout]
+Zombie Fallout 3.5 [Zombie Fallout]
+The End Has Come and Gone [Zombie Fallout]
+The End [Zombie Fallout]
+A Plague Upon Your Family [Zombie Fallout]
+Zombie Fallout [Zombie Fallout]
+Day by Day [Armageddon]
+Exile [Armageddon]
+Bitter Seeds [Milkweed]
+The Coldest War [Milkweed]
+Emperor's Soul
+Legion
+Warbreaker
+Dracula
+The Shining
+iWoz
+Hunger Games
+Steve Jobs
+How to Hike the AT
+The Gathering Storm [Wheel of Time]
+The Way of Kings
+Make Love, the Bruce Cambell Way
+Pro Javascript Techniques
+Don't make me think
+Javascript the Good Parts
+The Tipping Point
+Hannibal, Greater than Napoleon
+World War Z
+Mistborn [Final Empire]
+Well of Ascention [Final Empire]
+Hero of Ages [Final Empire]
+The Name of the Wind [King Killer] 
+The Wise Man's Fear [King Killer]
+A Game of Thrones [Song of Ice and Fire]
+A Clash of Kings [Song of Ice and Fire]
+A Storm of Swords [Song of Ice and Fire]
+A Feast for Crows [Song of Ice and Fire]
+Getting Things Done
+Head First Design Patterns
+Smart and Gets Things Done
+The Eye of the World [Wheel of Time]
+The Great Hunt [Wheel of Time]
+The Dragon Reborn [Wheel of Time]
+The Shadow Rising [Wheel of Time]
+The Fires of Heaven [Wheel of Time]
+Lord of Chaos [Wheel of Time]
+A Crown of Swords [Wheel of Time]
+The Path of Daggers [Wheel of Time]
+Winters Heart [Wheel of Time]
+Crossroads of Twilight [Wheel of Time]
+A Knife of Dreams [Wheel of Time]
+Slack
+The Cathedral and the Bazaar
+Business Process Management with a BR Approach
+Engineering Economy: Decision making process
+Dreaming in Code
+Ethics in Engineering
+The Watchmen
+The Emporor's New Mind
+Silos, Politics
+Less
+Your Mind: The Missing Owner's Manual
+The Portrait of Dorian Grey, Oscar Wilde
+Signals and Systems
+Blink
+Core J2EE Design Patterns
+Head First Design Patterns
