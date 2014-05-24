@@ -1,3 +1,5 @@
+Practical Common Lisp
+Words of Radiance [Stormlight Archive]
 Duty
 Unfettered
 Mere Christianity
