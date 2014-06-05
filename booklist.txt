@@ -1,3 +1,5 @@
+Spring in Practice
+Ex Purgatory
 Practical Common Lisp
 Words of Radiance [Stormlight Archive]
 Duty
