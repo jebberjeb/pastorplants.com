@@ -1,3 +1,6 @@
+The Reasoned Schemer
+Bloodline [Repairman Jack]
+Harbingers [Repairman Jack]
 Mastery
 Spring in Practice
 Practical Common Lisp
