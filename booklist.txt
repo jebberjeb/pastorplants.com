@@ -1,5 +1,19 @@
+The Gunslinger: The Dark Tower 1
+Paradigms of Artificial Intelligence Programming
+Nightworld [Adversary / Repairman Jack]
+The Dark at the End [Repairman Jack]
+The Reasoned Schemer
+The Shattered Land [Surviving the Dead]
+No Easy Hope [Surviving the Dead]
+The No Asshole Rule
+Fatal Error [Repairman Jack]
+Ground Zero [Repairman Jack]
+By the Sword [Repairman Jack]
+Bloodline [Repairman Jack]
+Harbingers [Repairman Jack]
 Mastery
 Spring in Practice
+Ex Purgatory
 Practical Common Lisp
 Words of Radiance [Stormlight Archive]
 Duty
@@ -84,7 +98,7 @@ Pro Javascript Techniques
 Don't make me think
 Javascript the Good Parts
 The Tipping Point
-Hannibal, Greater than Napoleon
+Scipio Africanus, Greater than Napoleon
 World War Z
 Mistborn [Final Empire]
 Well of Ascention [Final Empire]
