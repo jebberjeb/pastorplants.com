@@ -69,3 +69,6 @@ sudo cp -rf apache-maven-3.0.5 /usr/local/
 rm -rf apache-maven-3.0.5
 rm apache-maven-3.0.5-bin.tar.gz
 
+## lein
+curl --insecure https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein | sudo tee /usr/local/bin/lein
+sudo chmod a+x /usr/local/bin/lein
