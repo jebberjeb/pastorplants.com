@@ -17,9 +17,12 @@ SELINUXTYPE=targeted" | sudo tee /etc/selinux/config
 sudo yum -y install @xfce
 sudo systemctl set-default multi-user.target
 
-# Dev tools
+# Tools (that go on easy)
 sudo yum -y install git
 sudo yum -y groupinstall "Development Tools"
+sudo yum -y install ack
+sudo yum -y install tmux
+sudo yum -y install wget
 
 # dotfiles
 mkdir ~/source
@@ -42,13 +45,9 @@ ln -s ~/source/dotfiles/.tmux.conf ~/.tmux.conf
 ~/source/scripts/vim-install.sh
 ~/source/scripts/vim-setup.sh
 
-# Other apps
+# Other apps/tools w/ more complex setup
 
-## tmux
-sudo yum -y install tmux
-
-## wget
-sudo yum -y install wget
+## skype
 wget http://download.skype.com/linux/skype-4.3.0.37-fedora.i586.rpm
 sudo yum -y localinstall skype-4.3.0.37-fedora.i586.rpm
 
