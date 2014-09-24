@@ -14,12 +14,12 @@ echo "SELINUX=disabled
 SELINUXTYPE=targeted" | sudo tee /etc/selinux/config
 
 # Setup desktop (xfce)
-sudo yum install @xfce
+sudo yum -y install @xfce
 sudo systemctl set-default multi-user.target
 
 # Dev tools
-sudo yum install git
-sudo yum groupinstall "Development Tools"
+sudo yum -y install git
+sudo yum -y groupinstall "Development Tools"
 
 # dotfiles
 mkdir ~/source
@@ -45,16 +45,16 @@ ln -s ~/source/dotfiles/.tmux.conf ~/.tmux.conf
 # Other apps
 
 ## tmux
-sudo yum install tmux
+sudo yum -y install tmux
 
 ## wget
-sudo yum install wget
+sudo yum -y install wget
 wget http://download.skype.com/linux/skype-4.3.0.37-fedora.i586.rpm
-sudo yum localinstall skype-4.3.0.37-fedora.i586.rpm
+sudo yum -y localinstall skype-4.3.0.37-fedora.i586.rpm
 
 ## chrome
 sudo cp ~/source/scripts/google-chrome.repo /etc/yum.repos.d
-sudo yum install --nogpgcheck google-chrome-stable
+sudo yum -y install --nogpgcheck google-chrome-stable
 
 ## java
 wget https://www.dropbox.com/sh/at2y14m65f12qe9/AAAX9amN5DyuoUu8AZPGJ1F5a/virtualbox-stuff/jdk-7u60-linux-x64.rpm
