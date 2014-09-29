@@ -40,6 +40,8 @@ ln -s ~/source/dotfiles/.vim ~/.vim
 ln -s ~/source/dotfiles/.git-prompt.sh ~/.git-prompt.sh
 ln -s ~/source/dotfiles/.lein ~/.lein
 ln -s ~/source/dotfiles/.tmux.conf ~/.tmux.conf
+ln -s ~/source/dotfiles/.gitignore ~/.gitignore
+ln -s ~/source/dotfiles/.gitconfig ~/.gitconfig
 
 # Vim
 ~/source/scripts/vim-install.sh
