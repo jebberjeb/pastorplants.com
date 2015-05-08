@@ -1,3 +1,12 @@
+Dragons of Winter Night [Chronicles]
+The Soulforge
+Brothers in Arms
+Beyond Band of Brothers
+Structure and Interpretation of Computer Programs
+It
+The Stand
+Doctor Sleep
+Necronomicon
 Paradigms of Artificial Intelligence Programming
 The Pleasure of Finding Things Out
 Learning the Bash Shell: Unix Shell Programming
@@ -51,7 +60,6 @@ Legacies [Repairman Jack]
 The Little Schemer
 The Tomb [Adversary / Repairman Jack]
 This Town
-Dragons of Winter Night [Chronicles]
 The Keep [Adversary]
 The Evolution of Lisp
 Ex Heroes
